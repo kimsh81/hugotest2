@@ -52,7 +52,7 @@
 1. HUGO Template 설정
     - config.toml 파일 열어서 아래 내용 수정, Google Analytics, 저자, 제목, 배포 옵션(배포 옵션은 HUGO 대신 AWS CLI나 CICD 배포 파이프라인을 만들면 됩니다.
     ```toml
-        author = "Hyounsoo Kim"
+        author = "Sanghyun Kim"
 
     title = "HUGO 템플릿 활용하기"
     googleAnalytics = "UA-160433107-1"
