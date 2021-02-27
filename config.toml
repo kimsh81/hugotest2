@@ -5,7 +5,7 @@ theme = "hugo-theme-learn"
 showHeaderLanguageChooser=true
 defaultContentLanguageInSubdir= true
 #metaDataFormat = "yaml"
-#baseURL = "https://main.dgqn5olju9li1.amplifyapp.com/"
+#baseURL = "https://main.dslpj7wmlus3d.amplifyapp.com/"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
